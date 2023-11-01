@@ -1,0 +1,87 @@
+:root 
+{
+    --primary: #1a1a1a;
+    --light: #ffffff;
+    --grey: #e8e8e8;
+    --blue: #001780;
+}
+body
+{
+    overflow: hidden;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: var(--blue);
+    font-size: 16px;
+}
+a:hover
+{
+    text-decoration: none;
+}
+.bg-primary { background-color: var(--primary) !important; }
+.bg-light { background-color: var(--light)!important;}
+#sidebar-container 
+{
+    min-height: 100vh;
+}
+#sidebar-container .logo 
+{
+    padding: .875rem 1.25rem;
+}
+#sidecar-containar .menu
+{
+    width: 18rem;
+}
+.btn-search
+{
+    right: 5px;
+}
+.avatar
+{
+    max-width: 40px;
+}
+.avatar-perfil
+{
+    max-width: 100px;
+}
+.logo 
+{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#content
+{
+    overflow-y: auto ;
+    height: 100vh;
+    padding-bottom: 5rem;
+}
+h4
+{
+    font-family: 'Playpen Sans', cursive;
+    color: #1a1a1a;
+    font-weight: bold;
+}
+h7
+{ 
+    font-family: 'Playpen Sans', cursive;
+    color: #1a1a1a;
+}
+h1
+{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    color: rgb(32, 43, 43);
+    font-size: 80px;
+}
+p
+{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Pacifico', cursive;
+    color: #0b0b0b;
+    font-size: 18px;
+}
+a:music
+{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    color: rgb(32, 43, 43);
+    font-size: 80px;
+}
