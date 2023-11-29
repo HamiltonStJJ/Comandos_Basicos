@@ -28,19 +28,25 @@ git clone https://github.com/hamiltonstevenjumbojumbo23/Comandos_Basicos.git
 2. Ingresa a la carpeta
 
 ```
-cd Comandos_Basicos
+cd perfil_MD
 ```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Secciones de la Pagina html ⚙️</br>
-index.html</br>
-hobbies.html</br>
-gustosMusicale.html</br>
-estudios.html</br>
-datosCuriosos.html</br>
+
+📂 index.html</br>
+
+📂 hobbies.html</br>
+
+📂 gustosMusicale.html</br>
+
+📂 estudios.html</br>
+
+📂 datosCuriosos.html</br>
 ## Secciones de la Pagina css ⚙️
-Style.css
+
+📂 style.css
 
 
 ## Autores ✒️
