@@ -33,12 +33,12 @@ cd Comandos_Basicos
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Secciones de la Pagina html ⚙️
-index.html
-hobbies.html
-gustosMusicale.html
-estudios.html
-datosCuriosos.html
+## Secciones de la Pagina html ⚙️</br>
+index.html</br>
+hobbies.html</br>
+gustosMusicale.html</br>
+estudios.html</br>
+datosCuriosos.html</br>
 ## Secciones de la Pagina css ⚙️
 Style.css
 
