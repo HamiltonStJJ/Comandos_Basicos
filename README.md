@@ -25,7 +25,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto localmente:
 git clone https://github.com/hamiltonstevenjumbojumbo23/Comandos_Basicos.git
 ```
 
-2. INgresa a la carpeta
+2. Ingresa a la carpeta
 
 ```
 cd Comandos_Basicos
@@ -45,8 +45,6 @@ Style.css
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Hamilton Jumbo** - *Manejo Y Configuración del Software* - [villanuevand](https://github.com/hamiltonstevenjumbojumbo23)
 
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ Con ❤️ por [amiltonstevenjumbojumbo23](https://github.com/amiltonstevenjumbojumbo23) 😊
